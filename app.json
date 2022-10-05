@@ -31,7 +31,7 @@
 "AUTO_BIO": {"description": "this can change your profile detail automatically","value": "false" , "required": false },
 "OWNER_NAME": {"description": "","value": "Kavishka Sandaruwan" , "required": false },
 "LANGUAGE": {"description": "You can change your bot language using this. \n for Sinhala use SI \n for English use EN","value": "EN" , "required": false },
-"ALIVE_MESSAGE": {"description": "you can change your alive massage","value": "```👋 Hey there, I'm alive now```  \n\n_Version:_ ```v5.0.0``` \n\n _POWERED BY KAVIYAAH_" , "required": false },
+"ALIVE_MESSAGE": {"description": "you can change your alive massage","value": "default" , "required": false },
 "ALIVE_LOGO": {"description": "you can change your alive photo","value": "https://telegra.ph/file/3217c19d381ae34b38012.jpg" , "required": false },
 "KICKME_MESSAGE": {"description": "This massage using when you leaving group using '.kickme' command","value": " ```🤠 its time to leave bye bye``` " , "required": false },
 "BLOCK_CHAT": {"description": "Using this option, \n not sending bot's massages to you entered numbers","value": "false" , "required": false },
