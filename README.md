@@ -8,5 +8,3 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kavishkaya/Queen-DIANA-MD)
      
-## ANYONE CAN NOT DELOY MY BOT AGIN.BECAUSE START A NEW PROJECT AND CLOSED QUEEN DIANA BOT.STAY SOME WEEKS FOR NEW WHATSAPP USER BOT.
-THANK YOU 🤗😪
