@@ -241,7 +241,7 @@
         "updater": {
             "UPDATER_DESC": "යාවත්කලීන කිරීම් පරික්ශා කිරීම.",
             "UPDATE": "*ඔබේ බොට් හට යාවත්කාලීන කිරීම් නොමැත!*",
-            "NEW_UPDATE": "*බොට්හට නව යාවත්කාලීන් කිරීමක් ඇත!*\n\nවෙනස්වීම්:\n```",
+            "NEW_UPDATE": "*බොට්හට නව යාවත්කාලීන් කිරීමක් ඇත!* \n\n  _යාවත්කාලීන කිරීමට_ *.update now* _ලෙස සෙන්ඩ් කරන්න_` \n\nවෙනස්වීම්:\n ```",
             "UPDATE_NOW_DESC": "It makes updates.",
             "UPDATING": "*Updating...*",
             "INVALID_HEROKU": "*❌ Your Heroku information is wrong!*",
