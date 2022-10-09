@@ -1,3 +1,6 @@
+
+##👸Queen-Diana-MD v1.0.0 
+
 ## Tap On This Button To Scan Qr Code 👇🏻👇🏻
 
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@kavishkaya/Queen-Diana-MD?v=1?outputonly=1&lite=1)
