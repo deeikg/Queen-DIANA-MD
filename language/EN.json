@@ -622,7 +622,7 @@
         },
         "tiktok": {
             "TİKTOK": "Downloads videos from Tiktok.",
-            "NEED": "```You Must Enter Any Tiktok Link!``` \n*Example:* ```.tiktok https://vm.tiktok.com/ZSJY27ExT/```",
+            "NEED": "```You Must Enter Any Tiktok Link!``` \n*Example:* ```.tiktok https://vt.tiktok.com/ZSRq47qJA/```",
             "DOWN": "```Downloading Media..```",
             "CAPTİON": "Title:",
             "USERNAME": "Username:",
