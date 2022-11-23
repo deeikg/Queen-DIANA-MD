@@ -2,13 +2,13 @@
     "name": "DIANA-WA-Bot-MD",
     "version": "1.0.0",
     "description": "DIANA-MD project - a Whatsapp userbot helping to improve your Whatsapp experience.",
-    "main": "./DianaMD/bot.js",
+    "main": "./Queen-DIANA-MD/bot.js",
     "scripts": {
         "start": "supervisor -s bot.js"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/kavishkayaa/Queen-Diana.git"
+        "url": "git+https://github.com/kavishkayaa/Queen-DIANA-MD.git"
     },
     "keywords": [
         "whatsapp",
@@ -21,9 +21,9 @@
     "developer": "kavishka",
     "license": "GPL-3.0-or-later",
     "bugs": {
-        "url": "https://github.com/DIANA-wabot/DIANA-WA-Bot.git"
+        "url": "https://github.com/DIANA-wabot/Queen-DIANA-MD.git"
     },
-    "homepage": "https://github.com/kavishkayaa/Queen-Diana",
+    "homepage": "https://github.com/kavishkayaa/Queen-DIANA-MD",
     "dependencies": {
         "@adiwajshing/baileys": "4.4.0",
         "@adiwajshing/keyed-db": "^0.2.4",
